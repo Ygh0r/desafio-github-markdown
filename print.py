@@ -1,3 +1,6 @@
-// Mostra a mensagem Hello, World! no console
+// Mostra a mensagem de acordo com a entrada na função chamada
 
-print("Hello, World!")
+def message(str : text)
+  print("- " & text)
+
+message("Mensagem variável")
